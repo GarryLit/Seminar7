@@ -1,0 +1,15 @@
+D:\Seminar7\S7T52\bin\Debug\net6.0\S7T52.exe
+D:\Seminar7\S7T52\bin\Debug\net6.0\S7T52.deps.json
+D:\Seminar7\S7T52\bin\Debug\net6.0\S7T52.runtimeconfig.json
+D:\Seminar7\S7T52\bin\Debug\net6.0\S7T52.dll
+D:\Seminar7\S7T52\bin\Debug\net6.0\ref\S7T52.dll
+D:\Seminar7\S7T52\bin\Debug\net6.0\S7T52.pdb
+D:\Seminar7\S7T52\obj\Debug\net6.0\S7T52.csproj.AssemblyReference.cache
+D:\Seminar7\S7T52\obj\Debug\net6.0\S7T52.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seminar7\S7T52\obj\Debug\net6.0\S7T52.AssemblyInfoInputs.cache
+D:\Seminar7\S7T52\obj\Debug\net6.0\S7T52.AssemblyInfo.cs
+D:\Seminar7\S7T52\obj\Debug\net6.0\S7T52.csproj.CoreCompileInputs.cache
+D:\Seminar7\S7T52\obj\Debug\net6.0\S7T52.dll
+D:\Seminar7\S7T52\obj\Debug\net6.0\ref\S7T52.dll
+D:\Seminar7\S7T52\obj\Debug\net6.0\S7T52.pdb
+D:\Seminar7\S7T52\obj\Debug\net6.0\S7T52.genruntimeconfig.cache
